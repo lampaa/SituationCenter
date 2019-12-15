@@ -1,0 +1,1822 @@
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-open::before {
+    content: 'folder_open';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-shared::before {
+    content: 'folder_shared';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast::before {
+    content: 'cast';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast-connected::before {
+    content: 'cast_connected';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-computer::before {
+    content: 'computer';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-mac::before {
+    content: 'desktop_mac';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-windows::before {
+    content: 'desktop_windows';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-developer-board::before {
+    content: 'developer_board';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-device-hub::before {
+    content: 'device_hub';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-devices-other::before {
+    content: 'devices_other';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dock::before {
+    content: 'dock';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gamepad::before {
+    content: 'gamepad';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset::before {
+    content: 'headset';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset-mic::before {
+    content: 'headset_mic';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard::before {
+    content: 'keyboard';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-down::before {
+    content: 'keyboard_arrow_down';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-left::before,
+.x-fi-angle-left::before {
+    content: 'keyboard_arrow_left';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-right::before,
+.x-fi-angle-right::before {
+    content: 'keyboard_arrow_right';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-up::before {
+    content: 'keyboard_arrow_up';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-backspace::before {
+    content: 'keyboard_backspace';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-capslock::before {
+    content: 'keyboard_capslock';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-hide::before {
+    content: 'keyboard_hide';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-return::before {
+    content: 'keyboard_return';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-tab::before {
+    content: 'keyboard_tab';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-voice::before {
+    content: 'keyboard_voice';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop::before {
+    content: 'laptop';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-chromebook::before {
+    content: 'laptop_chromebook';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-mac::before {
+    content: 'laptop_mac';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-windows::before {
+    content: 'laptop_windows';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-memory::before {
+    content: 'memory';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mouse::before {
+    content: 'mouse';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-android::before {
+    content: 'phone_android';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-iphone::before {
+    content: 'phone_iphone';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink::before {
+    content: 'phonelink';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-off::before {
+    content: 'phonelink_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power-input::before {
+    content: 'power_input';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-router::before {
+    content: 'router';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-scanner::before {
+    content: 'scanner';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-security::before {
+    content: 'security';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card::before {
+    content: 'sim_card';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smartphone::before {
+    content: 'smartphone';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker::before {
+    content: 'speaker';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker-group::before {
+    content: 'speaker_group';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet::before {
+    content: 'tablet';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-android::before {
+    content: 'tablet_android';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-mac::before {
+    content: 'tablet_mac';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-toys::before {
+    content: 'toys';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tv::before {
+    content: 'tv';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-videogame-asset::before {
+    content: 'videogame_asset';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-watch::before {
+    content: 'watch';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-a-photo::before {
+    content: 'add_a_photo';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-to-photos::before {
+    content: 'add_to_photos';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adjust::before {
+    content: 'adjust';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant::before {
+    content: 'assistant';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant-photo::before {
+    content: 'assistant_photo';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-audiotrack::before {
+    content: 'audiotrack';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-circular::before {
+    content: 'blur_circular';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-linear::before {
+    content: 'blur_linear';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-off::before {
+    content: 'blur_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-on::before {
+    content: 'blur_on';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-1::before {
+    content: 'brightness_1';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-2::before {
+    content: 'brightness_2';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-3::before {
+    content: 'brightness_3';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-4::before {
+    content: 'brightness_4';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-5::before {
+    content: 'brightness_5';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-6::before {
+    content: 'brightness_6';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-7::before {
+    content: 'brightness_7';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-broken-image::before {
+    content: 'broken_image';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brush::before {
+    content: 'brush';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-burst-mode::before {
+    content: 'burst_mode';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera::before {
+    content: 'camera';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-alt::before {
+    content: 'camera_alt';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-front::before {
+    content: 'camera_front';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-rear::before {
+    content: 'camera_rear';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-roll::before {
+    content: 'camera_roll';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-strong::before {
+    content: 'center_focus_strong';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-weak::before {
+    content: 'center_focus_weak';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections::before {
+    content: 'collections';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections-bookmark::before {
+    content: 'collections_bookmark';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-color-lens::before {
+    content: 'color_lens';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-colorize::before {
+    content: 'colorize';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-compare::before {
+    content: 'compare';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point::before {
+    content: 'control_point';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point-duplicate::before {
+    content: 'control_point_duplicate';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop::before {
+    content: 'crop';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-16-9::before {
+    content: 'crop_16_9';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-3-2::before {
+    content: 'crop_3_2';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-5-4::before {
+    content: 'crop_5_4';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-7-5::before {
+    content: 'crop_7_5';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-din::before {
+    content: 'crop_din';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-free::before {
+    content: 'crop_free';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-landscape::before {
+    content: 'crop_landscape';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-original::before {
+    content: 'crop_original';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-portrait::before {
+    content: 'crop_portrait';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-rotate::before {
+    content: 'crop_rotate';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-square::before {
+    content: 'crop_square';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dehaze::before {
+    content: 'dehaze';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-details::before {
+    content: 'details';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit::before {
+    content: 'edit';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure::before {
+    content: 'exposure';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-1::before {
+    content: 'exposure_neg_1';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-2::before {
+    content: 'exposure_neg_2';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-1::before {
+    content: 'exposure_plus_1';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-2::before {
+    content: 'exposure_plus_2';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-zero::before {
+    content: 'exposure_zero';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter::before {
+    content: 'filter';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-1::before {
+    content: 'filter_1';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-2::before {
+    content: 'filter_2';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-3::before {
+    content: 'filter_3';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-4::before {
+    content: 'filter_4';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-5::before {
+    content: 'filter_5';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-6::before {
+    content: 'filter_6';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-7::before {
+    content: 'filter_7';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-8::before {
+    content: 'filter_8';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9::before {
+    content: 'filter_9';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9-plus::before {
+    content: 'filter_9_plus';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-b-and-w::before {
+    content: 'filter_b_and_w';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-center-focus::before {
+    content: 'filter_center_focus';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-drama::before {
+    content: 'filter_drama';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-frames::before {
+    content: 'filter_frames';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-hdr::before {
+    content: 'filter_hdr';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-none::before {
+    content: 'filter_none';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-tilt-shift::before {
+    content: 'filter_tilt_shift';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-vintage::before {
+    content: 'filter_vintage';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flare::before {
+    content: 'flare';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-auto::before {
+    content: 'flash_auto';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-off::before {
+    content: 'flash_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-on::before {
+    content: 'flash_on';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flip::before {
+    content: 'flip';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gradient::before {
+    content: 'gradient';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grain::before {
+    content: 'grain';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-off::before {
+    content: 'grid_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-on::before {
+    content: 'grid_on';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-off::before {
+    content: 'hdr_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-on::before {
+    content: 'hdr_on';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-strong::before {
+    content: 'hdr_strong';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-weak::before {
+    content: 'hdr_weak';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-healing::before {
+    content: 'healing';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image::before {
+    content: 'image';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image-aspect-ratio::before {
+    content: 'image_aspect_ratio';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-iso::before {
+    content: 'iso';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-landscape::before {
+    content: 'landscape';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-add::before {
+    content: 'leak_add';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-remove::before {
+    content: 'leak_remove';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-lens::before {
+    content: 'lens';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-linked-camera::before {
+    content: 'linked_camera';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks::before {
+    content: 'looks';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-3::before {
+    content: 'looks_3';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-4::before {
+    content: 'looks_4';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-5::before {
+    content: 'looks_5';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-6::before {
+    content: 'looks_6';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-one::before {
+    content: 'looks_one';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-two::before {
+    content: 'looks_two';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-loupe::before {
+    content: 'loupe';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-monochrome-photos::before {
+    content: 'monochrome_photos';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-creation::before {
+    content: 'movie_creation';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-filter::before {
+    content: 'movie_filter';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-music-note::before {
+    content: 'music_note';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature::before {
+    content: 'nature';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature-people::before {
+    content: 'nature_people';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-before::before {
+    content: 'navigate_before';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-next::before {
+    content: 'navigate_next';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-palette::before {
+    content: 'palette';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama::before {
+    content: 'panorama';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-fish-eye::before {
+    content: 'panorama_fish_eye';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-horizontal::before {
+    content: 'panorama_horizontal';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-vertical::before {
+    content: 'panorama_vertical';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-wide-angle::before {
+    content: 'panorama_wide_angle';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo::before {
+    content: 'photo';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-album::before {
+    content: 'photo_album';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-camera::before {
+    content: 'photo_camera';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-filter::before {
+    content: 'photo_filter';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-library::before {
+    content: 'photo_library';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-actual::before {
+    content: 'photo_size_select_actual';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-large::before {
+    content: 'photo_size_select_large';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-small::before {
+    content: 'photo_size_select_small';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-picture-as-pdf::before {
+    content: 'picture_as_pdf';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-portrait::before {
+    content: 'portrait';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-red-eye::before {
+    content: 'remove_red_eye';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-90-degrees-ccw::before {
+    content: 'rotate_90_degrees_ccw';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-left::before {
+    content: 'rotate_left';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-right::before {
+    content: 'rotate_right';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-slideshow::before {
+    content: 'slideshow';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-straighten::before {
+    content: 'straighten';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-style::before {
+    content: 'style';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-camera::before {
+    content: 'switch_camera';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-video::before {
+    content: 'switch_video';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tag-faces::before {
+    content: 'tag_faces';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-texture::before {
+    content: 'texture';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timelapse::before {
+    content: 'timelapse';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer::before {
+    content: 'timer';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-10::before {
+    content: 'timer_10';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-3::before {
+    content: 'timer_3';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-off::before {
+    content: 'timer_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tonality::before {
+    content: 'tonality';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transform::before {
+    content: 'transform';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tune::before {
+    content: 'tune';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-comfy::before {
+    content: 'view_comfy';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-compact::before {
+    content: 'view_compact';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vignette::before {
+    content: 'vignette';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-auto::before {
+    content: 'wb_auto';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-cloudy::before {
+    content: 'wb_cloudy';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-incandescent::before {
+    content: 'wb_incandescent';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-iridescent::before {
+    content: 'wb_iridescent';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-sunny::before {
+    content: 'wb_sunny';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-location::before {
+    content: 'add_location';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beenhere::before {
+    content: 'beenhere';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions::before {
+    content: 'directions';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bike::before {
+    content: 'directions_bike';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-boat::before {
+    content: 'directions_boat';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bus::before {
+    content: 'directions_bus';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-car::before {
+    content: 'directions_car';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-railway::before {
+    content: 'directions_railway';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-run::before {
+    content: 'directions_run';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-subway::before {
+    content: 'directions_subway';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-transit::before {
+    content: 'directions_transit';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-walk::before {
+    content: 'directions_walk';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit-location::before {
+    content: 'edit_location';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ev-station::before {
+    content: 'ev_station';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flight::before {
+    content: 'flight';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hotel::before {
+    content: 'hotel';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers::before {
+    content: 'layers';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers-clear::before {
+    content: 'layers_clear';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-activity::before {
+    content: 'local_activity';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-airport::before {
+    content: 'local_airport';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-atm::before {
+    content: 'local_atm';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-bar::before {
+    content: 'local_bar';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-cafe::before {
+    content: 'local_cafe';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-car-wash::before {
+    content: 'local_car_wash';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-convenience-store::before {
+    content: 'local_convenience_store';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-dining::before {
+    content: 'local_dining';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-drink::before {
+    content: 'local_drink';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-florist::before {
+    content: 'local_florist';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-gas-station::before {
+    content: 'local_gas_station';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-grocery-store::before {
+    content: 'local_grocery_store';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hospital::before {
+    content: 'local_hospital';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hotel::before {
+    content: 'local_hotel';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-laundry-service::before {
+    content: 'local_laundry_service';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-library::before {
+    content: 'local_library';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-mall::before {
+    content: 'local_mall';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-movies::before {
+    content: 'local_movies';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-offer::before {
+    content: 'local_offer';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-parking::before {
+    content: 'local_parking';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pharmacy::before {
+    content: 'local_pharmacy';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-phone::before {
+    content: 'local_phone';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pizza::before {
+    content: 'local_pizza';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-play::before {
+    content: 'local_play';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-post-office::before {
+    content: 'local_post_office';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-printshop::before {
+    content: 'local_printshop';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-see::before {
+    content: 'local_see';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-shipping::before {
+    content: 'local_shipping';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-taxi::before {
+    content: 'local_taxi';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-map::before {
+    content: 'map';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-my-location::before {
+    content: 'my_location';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigation::before {
+    content: 'navigation';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-near-me::before {
+    content: 'near_me';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin::before {
+    content: 'person_pin';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin-circle::before {
+    content: 'person_pin_circle';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pin-drop::before {
+    content: 'pin_drop';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-place::before {
+    content: 'place';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rate-review::before {
+    content: 'rate_review';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant::before {
+    content: 'restaurant';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant-menu::before {
+    content: 'restaurant_menu';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-satellite::before {
+    content: 'satellite';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-store-mall-directory::before {
+    content: 'store_mall_directory';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-streetview::before {
+    content: 'streetview';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subway::before {
+    content: 'subway';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-terrain::before {
+    content: 'terrain';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-traffic::before {
+    content: 'traffic';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-train::before {
+    content: 'train';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tram::before {
+    content: 'tram';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transfer-within-a-station::before {
+    content: 'transfer_within_a_station';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-zoom-out-map::before {
+    content: 'zoom_out_map';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-apps::before {
+    content: 'apps';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-back::before,
+.x-fi-arrow-left::before {
+    content: 'arrow_back';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-downward::before {
+    content: 'arrow_downward';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down::before {
+    content: 'arrow_drop_down';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down-circle::before {
+    content: 'arrow_drop_down_circle';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-up::before {
+    content: 'arrow_drop_up';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-forward::before {
+    content: 'arrow_forward';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-upward::before {
+    content: 'arrow_upward';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cancel::before {
+    content: 'cancel';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check::before {
+    content: 'check';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-left::before {
+    content: 'chevron_left';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-right::before {
+    content: 'chevron_right';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-close::before {
+    content: 'close';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-less::before {
+    content: 'expand_less';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-more::before {
+    content: 'expand_more';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-first-page::before {
+    content: 'first_page';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen::before {
+    content: 'fullscreen';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen-exit::before {
+    content: 'fullscreen_exit';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-last-page::before {
+    content: 'last_page';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-menu::before {
+    content: 'menu';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-horiz::before {
+    content: 'more_horiz';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-vert::before {
+    content: 'more_vert';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-refresh::before {
+    content: 'refresh';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-left::before {
+    content: 'subdirectory_arrow_left';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-right::before {
+    content: 'subdirectory_arrow_right';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adb::before {
+    content: 'adb';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat::before {
+    content: 'airline_seat_flat';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat-angled::before {
+    content: 'airline_seat_flat_angled';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-individual-suite::before {
+    content: 'airline_seat_individual_suite';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-extra::before {
+    content: 'airline_seat_legroom_extra';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-normal::before {
+    content: 'airline_seat_legroom_normal';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-reduced::before {
+    content: 'airline_seat_legroom_reduced';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-extra::before {
+    content: 'airline_seat_recline_extra';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-normal::before {
+    content: 'airline_seat_recline_normal';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-audio::before {
+    content: 'bluetooth_audio';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-confirmation-number::before {
+    content: 'confirmation_number';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-disc-full::before {
+    content: 'disc_full';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb::before {
+    content: 'do_not_disturb';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-alt::before {
+    content: 'do_not_disturb_alt';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-off::before {
+    content: 'do_not_disturb_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-on::before {
+    content: 'do_not_disturb_on';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drive-eta::before {
+    content: 'drive_eta';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-enhanced-encryption::before {
+    content: 'enhanced_encryption';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-available::before {
+    content: 'event_available';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-busy::before {
+    content: 'event_busy';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-note::before {
+    content: 'event_note';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-special::before {
+    content: 'folder_special';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-live-tv::before {
+    content: 'live_tv';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mms::before {
+    content: 'mms';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more::before {
+    content: 'more';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-check::before {
+    content: 'network_check';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-locked::before {
+    content: 'network_locked';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-no-encryption::before {
+    content: 'no_encryption';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ondemand-video::before {
+    content: 'ondemand_video';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-personal-video::before {
+    content: 'personal_video';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-bluetooth-speaker::before {
+    content: 'phone_bluetooth_speaker';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-forwarded::before {
+    content: 'phone_forwarded';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-in-talk::before {
+    content: 'phone_in_talk';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-locked::before {
+    content: 'phone_locked';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-missed::before {
+    content: 'phone_missed';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-paused::before {
+    content: 'phone_paused';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power::before {
+    content: 'power';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-priority-high::before {
+    content: 'priority_high';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sd-card::before {
+    content: 'sd_card';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card-alert::before {
+    content: 'sim_card_alert';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms::before {
+    content: 'sms';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms-failed::before {
+    content: 'sms_failed';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync::before {
+    content: 'sync';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-disabled::before {
+    content: 'sync_disabled';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-problem::before {
+    content: 'sync_problem';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-system-update::before {
+    content: 'system_update';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tap-and-play::before {
+    content: 'tap_and_play';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-time-to-leave::before {
+    content: 'time_to_leave';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vibration::before {
+    content: 'vibration';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-voice-chat::before {
+    content: 'voice_chat';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vpn-lock::before {
+    content: 'vpn_lock';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wc::before {
+    content: 'wc';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi::before {
+    content: 'wifi';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ac-unit::before {
+    content: 'ac_unit';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airport-shuttle::before {
+    content: 'airport_shuttle';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-all-inclusive::before {
+    content: 'all_inclusive';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beach-access::before {
+    content: 'beach_access';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-business-center::before {
+    content: 'business_center';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-casino::before {
+    content: 'casino';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-care::before {
+    content: 'child_care';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-friendly::before {
+    content: 'child_friendly';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fitness-center::before {
+    content: 'fitness_center';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-free-breakfast::before {
+    content: 'free_breakfast';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-golf-course::before {
+    content: 'golf_course';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hot-tub::before {
+    content: 'hot_tub';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-kitchen::before {
+    content: 'kitchen';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pool::before {
+    content: 'pool';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-room-service::before {
+    content: 'room_service';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rv-hookup::before {
+    content: 'rv_hookup';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoke-free::before {
+    content: 'smoke_free';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoking-rooms::before {
+    content: 'smoking_rooms';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-spa::before {
+    content: 'spa';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cake::before {
+    content: 'cake';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-domain::before {
+    content: 'domain';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group::before {
+    content: 'group';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group-add::before {
+    content: 'group_add';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-city::before {
+    content: 'location_city';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood::before {
+    content: 'mood';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood-bad::before {
+    content: 'mood_bad';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications::before {
+    content: 'notifications';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-active::before {
+    content: 'notifications_active';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-none::before {
+    content: 'notifications_none';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-off::before {
+    content: 'notifications_off';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-paused::before {
+    content: 'notifications_paused';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pages::before {
+    content: 'pages';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-party-mode::before {
+    content: 'party_mode';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people::before {
+    content: 'people';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people-outline::before {
+    content: 'people_outline';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person::before {
+    content: 'person';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-add::before {
+    content: 'person_add';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-outline::before {
+    content: 'person_outline';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-plus-one::before {
+    content: 'plus_one';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-poll::before {
+    content: 'poll';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-public::before {
+    content: 'public';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-school::before {
+    content: 'school';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-dissatisfied::before {
+    content: 'sentiment_dissatisfied';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-neutral::before {
+    content: 'sentiment_neutral';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-satisfied::before {
+    content: 'sentiment_satisfied';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-dissatisfied::before {
+    content: 'sentiment_very_dissatisfied';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-satisfied::before {
+    content: 'sentiment_very_satisfied';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-share::before {
+    content: 'share';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-whatshot::before {
+    content: 'whatshot';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box::before {
+    content: 'check_box';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box-outline-blank::before {
+    content: 'check_box_outline_blank';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-indeterminate-check-box::before {
+    content: 'indeterminate_check_box';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-checked::before {
+    content: 'radio_button_checked';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-unchecked::before {
+    content: 'radio_button_unchecked';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star::before {
+    content: 'star';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-border::before {
+    content: 'star_border';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-half::before {
+    content: 'star_half';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:70 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Roboto Regular'), local('Roboto-Regular'), url("../resources/fonts/roboto/Roboto-Regular.ttf") format('truetype');
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:78 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    src: local('Roboto Light'), local('Roboto-Light'), url("../resources/fonts/roboto/Roboto-Light.ttf") format('truetype');
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:87 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: normal;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url("../resources/fonts/roboto/Roboto-Medium.ttf") format('truetype');
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:96 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url("../resources/fonts/roboto/Roboto-Bold.ttf") format('truetype');
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:105 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: italic;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url("../resources/fonts/roboto/Roboto-Italic.ttf") format('truetype');
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:116 */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url("../resources/fonts/MaterialIcons-Regular.ttf") format('truetype');
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Component.scss:125 */
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #111;
+    color: var(--color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Indicator.scss:1 */
+.x-indicator span {
+    transition: background-color 0.25s ease-out, width 0.1s ease-out, height 0.1s ease-out;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:10 */
+.x-button-fab .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+    color: #222;
+    color: var(--accent-foreground-color);
+    display: flex;
+    width: 56px;
+    height: 56px;
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:23 */
+.x-button-fab .x-ripple {
+    background-color: #222;
+    background-color: var(--accent-foreground-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:27 */
+.x-button-fab.x-hovered .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:31 */
+.x-keyboard-mode .x-button-fab.x-focused .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:36 */
+.x-big .x-button-fab .x-inner-el {
+    border-radius: 50%;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:41 */
+.x-button-fab .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:46 */
+.x-button-fab.x-pressing .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.21), 2px 2px 6px 0 rgba(0, 0, 0, 0.18);
+    z-index: 3;
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:48 */
+.x-button-fab.x-pressing .x-inner-el .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:57 */
+.x-docked-top .x-has-badge .x-badge-el {
+    top: -8px;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Button.scss:63 */
+.x-has-badge .x-badge-el {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Toolbar.scss:1 */
+.x-toolbar-body-el {
+    overflow: visible;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Toolbar.scss:6 */
+.x-toolbar-body-el > .x-title {
+    transition: 0.25s padding ease-out;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:3 */
+.x-panelheader .x-field {
+    background-color: transparent;
+    border-bottom-color: rgba(255, 255, 255, 0.38);
+    border-bottom-color: var(--reverse-disabled-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:7 */
+.x-panelheader .x-field .x-label-el {
+    color: #ff9800;
+    color: var(--accent-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:11 */
+.x-panelheader .x-field.x-focused {
+    border-bottom-color: #ff9800;
+    border-bottom-color: var(--accent-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:17 */
+.x-panelheader .x-input .x-cleartrigger .x-icon-el {
+    color: #fff;
+    color: var(--base-foreground-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:22 */
+.x-panelheader .x-input .x-input-el {
+    -webkit-text-fill-color: #fff;
+    -webkit-text-fill-color: var(--base-foreground-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:28 */
+.x-panelheader .x-toggleslider.x-on {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/Panel.scss:32 */
+.x-panelheader .x-toggleslider.x-on .x-thumb:after {
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/dataview/SimpleListItem.scss:1 */
+.x-listitem-disclosure .x-icon-el {
+    transition: background-color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/dataview/IndexBar.scss:1 */
+.x-indexbar-indicator {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/plugin/dd/DragDrop.scss:2 */
+.x-proxy-drag-el:before {
+    /* Roboto uses ligatures.  Android and IE seem to need this */
+    /* Roboto uses ligatures.  Android and IE seem to need this */
+    font-feature-settings: 'liga';
+}
+/* C:/Projects/Java/situationcenter/CamerasProject/ext/modern/theme-material/sass/src/grid/plugin/HeaderReorder.scss:3 */
+.x-header-drop-indicator-before:before,
+.x-header-drop-indicator-before:after,
+.x-header-drop-indicator-after:before,
+.x-header-drop-indicator-after:after {
+    /* Roboto uses ligatures.  Android and IE seem to need this */
+    /* Roboto uses ligatures.  Android and IE seem to need this */
+    font-feature-settings: 'liga';
+}
