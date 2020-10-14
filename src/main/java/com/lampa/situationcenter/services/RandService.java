@@ -11,7 +11,7 @@ import java.util.Random;
 @Service
 public class RandService {
     private Random random = new Random();
-    static final String AB = "0123456789abcdefghijklmnopqrstuvwxyz";
+    private static final String AB = "0123456789abcdefghijklmnopqrstuvwxyz";
 
     public int getRand(int min, int max) {
         return random.nextInt((max - min) + 1) + min;

@@ -10,9 +10,10 @@
     </parent>
     <groupId>com.lampa</groupId>
     <artifactId>situationcenter</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <name>situationcenter</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Situation Center with ExtJs 7 and ReactJs</description>
+    <url>https://habr.com/ru/post/479676/</url>
 
     <properties>
         <java.version>11</java.version>
@@ -44,6 +45,13 @@
                     <artifactId>junit-vintage-engine</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
